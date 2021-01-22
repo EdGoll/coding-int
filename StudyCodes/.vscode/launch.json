@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NumIslandDFS",
+            "request": "launch",
+            "mainClass": "NumIslandDFS",
+            "projectName": "StudyCodes_4b9af28c"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTreeLevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTreeLevelOrderTraversal",
+            "projectName": "StudyCodes_4b9af28c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseInteger",
+            "request": "launch",
+            "mainClass": "ReverseInteger",
+            "projectName": "StudyCodes_4b9af28c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MedianofTwoSortedArrays",
+            "request": "launch",
+            "mainClass": "MedianofTwoSortedArrays",
+            "projectName": "StudyCodes_4b9af28c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringUtilsCodes",
+            "request": "launch",
+            "mainClass": "StringUtilsCodes",
+            "projectName": "StudyCodes_4b9af28c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateTest",
+            "request": "launch",
+            "mainClass": "DateTest",
+            "projectName": "StudyCodes_4b9af28c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "StudyCodes_4b9af28c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DFS",
+            "request": "launch",
+            "mainClass": "DFS",
+            "projectName": "StudyCodes_4b9af28c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "StudyCodes_4b9af28c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
